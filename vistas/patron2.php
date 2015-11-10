@@ -8,6 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap-responsive.css">
 	<link rel="stylesheet" href="../font-awesome-4.3.0/font-awesome.min.css">
 	<link rel="stylesheet" href="../css/estilo.css">
+	<link type="text/css" href="../css/propuesta2.css" rel="Stylesheet" />
 
 	<script src="../js/jquery.js"></script>
 	<link rel="stylesheet" type="text/css" href="../js/jquery.js">
@@ -132,16 +133,75 @@
 		    		</li>
 		  		</ul>
 		  	<div class="tab-content">
-                <div class="tab-pane active" id="lA">
-                  <p>I'm in Section A.</p>
-                </div>
-                <div class="tab-pane" id="lB">
-                  <p>Howdy, I'm in Section B.</p>
-                </div>
-                <div class="tab-pane" id="lC">
-                  <p>What up girl, this is Section C.</p>
-                </div>
-              </div>
+	                <div class="tab-pane active" id="lA">
+						<div class="row-fluid">
+							<div class="span6">
+								<div class="panel panel-default ">
+							  		<div class="panel-heading">
+							    		<h3 class="panel-title">Reforma Tributaria 2015</h3>
+							  		</div>
+									<div class="panel-body">
+									    Como es de su conocimiento el pasado 23 de diciembre se aprobó la Reforma Tributaria Ley 1739, por ello ponemos a su disposición este resumen ejecutivo con los principales cambios que introdujo la ley tanto para personas naturales como para personas jurídicas. 
+									</div>
+								</div>
+							</div>
+							<div class="span6">
+								<div class="panel panel-default ">
+									<div class="panel-heading">
+								   		<h3 class="panel-title">10 Predicciones para el Crecimiento</h3>
+									</div>
+									<div class="panel-body">
+								    Muchas aseguradoras están replanteando su modelo de negocio a la luz de los cambios económicos y normativos, con la suscripción de un enfoque sostenible dados los continuos bajos rendimientos de inversión.
+								  	</div>
+								</div>
+							 </div>
+						</div>
+                	</div>
+                	<div class="tab-pane row-fluid" id="lB">
+                  			<div class="span6">
+								<div class="panel panel-default ">
+							 		<div class="panel-heading">
+							    		<h3 class="panel-title">Reforma Tributaria 2015</h3>
+							  		</div>
+									<div class="panel-body">
+									    Como es de su conocimiento el pasado 23 de diciembre se aprobó la Reforma Tributaria Ley 1739, por ello ponemos a su disposición este resumen ejecutivo con los principales cambios que introdujo la ley tanto para personas naturales como para personas jurídicas. 
+									</div>
+								</div>
+							</div>
+							<div class="span6">
+								<div class="panel panel-default ">
+							 		<div class="panel-heading">
+							    		<h3 class="panel-title">10 Predicciones para el Crecimiento</h3>
+							  		</div>
+							 		<div class="panel-body">
+								    Muchas aseguradoras están replanteando su modelo de negocio a la luz de los cambios económicos y normativos, con la suscripción de un enfoque sostenible dados los continuos bajos rendimientos de inversión.
+								  	</div>
+								</div>
+							</div>
+               		</div>
+	                <div class="tab-pane row-fluid" id="lC">
+	                 	<div class="span6">
+							<div class="panel panel-default ">
+								<div class="panel-heading">
+							   		<h3 class="panel-title">Reforma Tributaria 2015</h3>
+								</div>
+								<div class="panel-body">
+							    Como es de su conocimiento el pasado 23 de diciembre se aprobó la Reforma Tributaria Ley 1739, por ello ponemos a su disposición este resumen ejecutivo con los principales cambios que introdujo la ley tanto para personas naturales como para personas jurídicas. 
+								</div>
+							</div>
+						</div>
+						<div class="span6">
+							<div class="panel panel-default ">
+						 		<div class="panel-heading">
+						    		<h3 class="panel-title">10 Predicciones para el Crecimiento</h3>
+						  		</div>
+						 		<div class="panel-body">
+							    Muchas aseguradoras están replanteando su modelo de negocio a la luz de los cambios económicos y normativos, con la suscripción de un enfoque sostenible dados los continuos bajos rendimientos de inversión.
+							  	</div>
+							</div>
+						</div>
+	                </div>
+	        </div>
 		 </div>
 		</div>
 		<ul class="pager">
