@@ -9,21 +9,12 @@
 	<link rel="stylesheet" href="../font-awesome-4.3.0/font-awesome.min.css">
 	<link rel="stylesheet" href="../css/estilo.css">
 	<link type="text/css" href="../css/propuesta2.css" rel="Stylesheet" />
-
 	<script src="../js/jquery.js"></script>
 	<link rel="stylesheet" type="text/css" href="../js/jquery.js">
 	<script src="../js/bootstrap.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="../js/bootstrap.min.js">
-	<script src="../js/java.js"></script>
-	
-
-
-	
-
-
+	<script src="../js/java.js"></script>	
 <body class="fondo">
-
-
 	<div class="container-fluid navbar-inner" >
 	  <div class="row-fluid ">
 	    <div class="span12">
@@ -167,7 +158,6 @@
 									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>                
 									                </div>
 											    </div>
-
 											    <div class="item">
 											    	<img src="../recursos/banner-finanzas.jpg" alt="Finanzas">
 											    	<div class="carousel-caption">
@@ -233,7 +223,6 @@
 									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>                
 									                </div>
 											    </div>
-
 											    <div class="item">
 											    	<img src="../recursos/banner-finanzas.jpg" alt="Finanzas">
 											    	<div class="carousel-caption">
@@ -298,7 +287,6 @@
 									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>                
 									                </div>
 											    </div>
-
 											    <div class="item">
 											    	<img src="../recursos/banner-finanzas.jpg" alt="Finanzas">
 											    	<div class="carousel-caption">
@@ -343,7 +331,6 @@
 		</ul>	    
 	  </div>
 	</div>
-
 	<div class="container-fluid navbar-inner" >
 	  <div class="row-fluid ">
 	    <div class="span12">
@@ -351,12 +338,6 @@
 	    </div>	    
 	  </div>
 	</div>
-	
-
-	
-			
-	
-
 </body>
 </head>
 </html>
