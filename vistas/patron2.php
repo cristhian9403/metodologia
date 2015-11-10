@@ -151,17 +151,60 @@
 								   		<h3 class="panel-title">10 Predicciones para el Crecimiento</h3>
 									</div>
 									<div class="panel-body">
-								    Muchas aseguradoras están replanteando su modelo de negocio a la luz de los cambios económicos y normativos, con la suscripción de un enfoque sostenible dados los continuos bajos rendimientos de inversión.
+									    <div class="container-fluid" >
+											<div id="myCarousel" class="carousel slide">
+											  <ol class="carousel-indicators">
+											    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+											    <li data-target="#myCarousel" data-slide-to="1"></li>
+											    <li data-target="#myCarousel" data-slide-to="2"></li>
+											  </ol>
+											  <!-- Carousel items -->
+											  <div class="carousel-inner">
+											    <div class="active item">
+											    	<img src="../recursos/banner-dian.jpg" alt="Dian">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>                
+									                </div>
+											    </div>
+
+											    <div class="item">
+											    	<img src="../recursos/banner-finanzas.jpg" alt="Finanzas">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											    <div class="item">
+											    	<img src="../recursos/banner-laboral.jpg" alt="Laboral">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											    <div class="item">
+											    	<img src="../recursos/banner-sistematizacion.jpg" alt="Sistematizacion">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											  </div>
+											  <!-- Carousel nav -->
+											  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+											  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+											</div>
+										</div>
 								  	</div>
 								</div>
-							 </div>
+							</div>
 						</div>
                 	</div>
                 	<div class="tab-pane row-fluid" id="lB">
                   			<div class="span6">
 								<div class="panel panel-default ">
 							 		<div class="panel-heading">
-							    		<h3 class="panel-title">Reforma Tributaria 2015</h3>
+							    		<h3 class="panel-title">Reforma  2015</h3>
 							  		</div>
 									<div class="panel-body">
 									    Como es de su conocimiento el pasado 23 de diciembre se aprobó la Reforma Tributaria Ley 1739, por ello ponemos a su disposición este resumen ejecutivo con los principales cambios que introdujo la ley tanto para personas naturales como para personas jurídicas. 
@@ -170,11 +213,54 @@
 							</div>
 							<div class="span6">
 								<div class="panel panel-default ">
-							 		<div class="panel-heading">
-							    		<h3 class="panel-title">10 Predicciones para el Crecimiento</h3>
-							  		</div>
-							 		<div class="panel-body">
-								    Muchas aseguradoras están replanteando su modelo de negocio a la luz de los cambios económicos y normativos, con la suscripción de un enfoque sostenible dados los continuos bajos rendimientos de inversión.
+									<div class="panel-heading">
+								   		<h3 class="panel-title">10 Predicciones para el Crecimiento</h3>
+									</div>
+									<div class="panel-body">
+									    <div class="container-fluid" >
+											<div id="myCarousel" class="carousel slide">
+											  <ol class="carousel-indicators">
+											    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+											    <li data-target="#myCarousel" data-slide-to="1"></li>
+											    <li data-target="#myCarousel" data-slide-to="2"></li>
+											  </ol>
+											  <!-- Carousel items -->
+											  <div class="carousel-inner">
+											    <div class="active item">
+											    	<img src="../recursos/banner-dian.jpg" alt="Dian">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>                
+									                </div>
+											    </div>
+
+											    <div class="item">
+											    	<img src="../recursos/banner-finanzas.jpg" alt="Finanzas">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											    <div class="item">
+											    	<img src="../recursos/banner-laboral.jpg" alt="Laboral">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											    <div class="item">
+											    	<img src="../recursos/banner-sistematizacion.jpg" alt="Sistematizacion">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											  </div>
+											  <!-- Carousel nav -->
+											  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+											  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+											</div>
+										</div>
 								  	</div>
 								</div>
 							</div>
@@ -183,7 +269,7 @@
 	                 	<div class="span6">
 							<div class="panel panel-default ">
 								<div class="panel-heading">
-							   		<h3 class="panel-title">Reforma Tributaria 2015</h3>
+							   		<h3 class="panel-title">Reforma Tributaria</h3>
 								</div>
 								<div class="panel-body">
 							    Como es de su conocimiento el pasado 23 de diciembre se aprobó la Reforma Tributaria Ley 1739, por ello ponemos a su disposición este resumen ejecutivo con los principales cambios que introdujo la ley tanto para personas naturales como para personas jurídicas. 
@@ -191,13 +277,56 @@
 							</div>
 						</div>
 						<div class="span6">
-							<div class="panel panel-default ">
-						 		<div class="panel-heading">
-						    		<h3 class="panel-title">10 Predicciones para el Crecimiento</h3>
-						  		</div>
-						 		<div class="panel-body">
-							    Muchas aseguradoras están replanteando su modelo de negocio a la luz de los cambios económicos y normativos, con la suscripción de un enfoque sostenible dados los continuos bajos rendimientos de inversión.
-							  	</div>
+								<div class="panel panel-default ">
+									<div class="panel-heading">
+								   		<h3 class="panel-title">10 Predicciones para el Crecimiento</h3>
+									</div>
+									<div class="panel-body">
+									    <div class="container-fluid" >
+											<div id="myCarousel" class="carousel slide">
+											  <ol class="carousel-indicators">
+											    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+											    <li data-target="#myCarousel" data-slide-to="1"></li>
+											    <li data-target="#myCarousel" data-slide-to="2"></li>
+											  </ol>
+											  <!-- Carousel items -->
+											  <div class="carousel-inner">
+											    <div class="active item">
+											    	<img src="../recursos/banner-dian.jpg" alt="Dian">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>                
+									                </div>
+											    </div>
+
+											    <div class="item">
+											    	<img src="../recursos/banner-finanzas.jpg" alt="Finanzas">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											    <div class="item">
+											    	<img src="../recursos/banner-laboral.jpg" alt="Laboral">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											    <div class="item">
+											    	<img src="../recursos/banner-sistematizacion.jpg" alt="Sistematizacion">
+											    	<div class="carousel-caption">
+									                      <h4>First Thumbnail label</h4>
+									                      <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									                </div>
+											    </div>
+											  </div>
+											  <!-- Carousel nav -->
+											  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+											  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+											</div>
+										</div>
+								 	</div>
 							</div>
 						</div>
 	                </div>
