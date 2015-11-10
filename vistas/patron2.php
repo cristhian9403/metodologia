@@ -40,7 +40,7 @@
 	  <div class="row-fluid">
 	    <div class="span12">
 	    	<div class="btn-group">
-			    <a class="btn btn-large"  href="primerainterfaz.html">
+			    <a class="btn btn-large"  href="../primerainterfaz.html">
 				    Inicio
 				</a>
 			</div>
